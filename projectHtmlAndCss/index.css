@@ -1,0 +1,94 @@
+body{
+    background-image: url('Images/background.png');
+    background-repeat: no-repeat;
+    background-size: 100em 50em;
+    
+}
+.class1{
+    height: 6em;
+    padding: 3em 3em 3em 3em;
+    
+}
+.class2{
+    width: 75em;
+    margin:3em 0em 3em 0em;
+    text-align: right;
+    
+    
+}
+
+.class4{
+    padding-left: 3em;
+    font-size: 3em;
+    font-weight: bold;
+    color: #f5f5f5;
+}
+.class5{
+    padding-left: 6em;
+    font-size: 2em;
+    font-weight: bold;
+    color: #f5f5f5;
+}
+.class6{
+    list-style-type: none;
+}
+.class7{
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:darkmagenta;
+    font-weight:bold;
+    text-decoration: underline;
+}
+.class8{
+    background-image: url('Images/classbackground.png');
+    background-repeat: no-repeat;
+    background-size: 100em 50em;
+}
+.class9{
+    width:70em;
+}
+.class10{
+    font-weight: bold;
+    color: darkgreen;
+}
+.class11,.class12,.class13{
+    height: 10em;
+    width:  20em;
+    padding-left: 2em;
+    
+}
+.class11{
+    transform: rotate(10deg);
+}
+.class12{
+    transform: rotate(-10deg);
+}
+.class13{
+    transform:rotate(10deg);
+}
+.class14{
+    width:25em;
+}
+.class15{
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+.class16{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2em;
+}
+.class17{
+    color:#000000;
+    text-decoration: none;
+
+}
+td{
+    padding:1em 3em 0em 3em;
+}
+footer{
+    color: #ffffff;
+}
