@@ -1,0 +1,60 @@
+.img{
+    width: 40%;
+}
+
+.k_img{
+    width: 50%;
+    height: 300px;
+    padding: 50px 4% 2px 20%;
+      
+}
+
+.description{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:80px 0px 0px 0px;
+}
+.heading{
+   text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin: 0px;
+    color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skills_imgele{
+    height: 50px;
+    width: 10%
+}
+.skills_img{
+    margin-left: 5%;
+}
+.hobbies_span{
+    margin-left : 5%;
+    margin-top: 10%;
+    padding: 10px 0.5% 10px 0.5%;
+    background-color: rgb(83, 80, 80);
+    color:#f5f5f5;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.map{
+    width: 100%;
+}
+.header{
+    background-image: url('Images/header back-ground.png');
+    background-size: 100% 100%;
+}
+body{
+    margin:0%;
+    background-color: #1f1d1d;
+}
+hr{
+    color: whitesmoke;
+}
+.footer_copyright{
+    text-align: center;
+    padding-top: 20px;
+    color:#f5f5f5;
+}
